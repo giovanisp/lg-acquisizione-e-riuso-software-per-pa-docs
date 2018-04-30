@@ -61,6 +61,12 @@ F - Software combinazione delle precedenti soluzioni
     soluzione. E’ di fatto la tipologia più comune tra quelle
     effettivamente in uso nelle pubbliche amministrazioni.
 
+
+La Legge n. 4/2004 all’art. 4 comma 1 (Obblighi per l'accessibilità) indica che
+
+|  "Nelle procedure svolte dai soggetti di cui all’articolo 3, comma 1, per l’acquisto di beni e per la fornitura di servizi informatici, i requisiti di accessibilità stabiliti con il decreto di cui all’articolo 11 costituiscono motivo di preferenza a parità di ogni altra condizione nella valutazione dell’offerta tecnica, tenuto conto della destinazione del bene o del servizio. La mancata considerazione dei requisiti di accessibilità o l’eventuale acquisizione di beni o fornitura di servizi non accessibili è adeguatamente motivata."
+
+
 Inoltre, il comma 1 dell’articolo 69 del CAD indica che
 
 |  “le pubbliche amministrazioni che siano titolari di soluzioni e
