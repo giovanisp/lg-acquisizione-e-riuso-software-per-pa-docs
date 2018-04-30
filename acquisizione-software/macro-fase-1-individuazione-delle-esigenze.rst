@@ -60,6 +60,8 @@ La presente fase si conclude con la:
 -  individuazione dei vincoli (economici e temporali) che condizionano
    le scelte dell’amministrazione.
 
+Nel caso di contratti per la realizzazione e la modifica di siti Internet (siti Web, applicazioni Web, applicazioni basate su tecnologie Web) è necessario che nei vincoli contrattuali sia previsto il rispetto dei requisiti tecnici in materia di accessibilità, pena nullità del contratto (conforme all'art. 4 comma 2 Legge 4/2004).
+
 Fase 1.3: Redazione del documento descrittivo delle esigenze
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
